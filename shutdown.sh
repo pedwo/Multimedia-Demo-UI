@@ -1,0 +1,5 @@
+#!/bin/sh
+
+sync
+halt
+

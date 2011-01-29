@@ -1,0 +1,9 @@
+v=0
+o=- 1188340656180883 1 IN IP4 192.168.10.31
+s=Session streamed by GStreamer
+t=0 0
+a=control:rtsp://192.168.10.31/stream.sdp
+m=video 5000 RTP/AVP 96
+c=IN IP4 192.168.10.31
+a=rtpmap:96 H264/90000
+

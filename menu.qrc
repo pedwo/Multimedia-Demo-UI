@@ -1,0 +1,12 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>cog.png</file>
+    <file>qvga/slides.png</file>
+    <file>qvga/cam.png</file>
+    <file>qvga/cam-play.png</file>
+    <file>qvga/streaming.png</file>
+    <file>qvga/directfb.png</file>
+    <file>qvga/movie-reel.png</file>
+    <file>qvga/power.png</file>
+</qresource>
+</RCC>

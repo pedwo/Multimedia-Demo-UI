@@ -46,10 +46,6 @@ END{sub(" ", "", text); print text}
 export QWS_KEYBOARD="$KEYBOARD"
 #echo 'QWS_KEYBOARD='$QWS_KEYBOARD
 
-# Qt 4.7 requires QWS_DISPLAY to be set
-export QWS_DISPLAY="LinuxFb:/dev/fb0"
-#echo 'QWS_DISPLAY='$QWS_DISPLAY
-
 # options: "de", "en", ...
 export LANG="en"
 
